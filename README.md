@@ -76,7 +76,7 @@ The summary of our Model—
 
 <img width="450" alt="image" src="https://user-images.githubusercontent.com/89255668/229802358-bff24e0a-cc34-46b0-9f5a-ee5992259b5e.png">
 
-** RESULT: Predicting the signs,the model works with 94% Accuracy**
+**RESULT: Predicting the signs,the model works with 94% Accuracy**
 
 
 
