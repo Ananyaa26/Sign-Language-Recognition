@@ -15,6 +15,8 @@ technical terms, Legal terms, standard used terms, and Academic and Agricultural
 video lengths range from 0.38 to 8.04 seconds, and the mean length of all the videos is 2.45 sec.
 All the videos are processed into the same format (.mp4).
 
+🔗 [ISL Dataset-Google Drive Link](https://drive.google.com/drive/folders/1XLxGQVn2AR6APGsoHnN_RxFxD63PO9hU?usp=sharing)
+
 # Methodology
 
 1. Extracting MediaPipe Holistic Key Points
